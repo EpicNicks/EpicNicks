@@ -1,6 +1,6 @@
-## Hi there 👋
-
 <!--
+still deciding what to add but don't want the default
+
 **EpicNicks/EpicNicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
